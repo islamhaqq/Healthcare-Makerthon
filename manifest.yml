@@ -1,6 +1,6 @@
 applications:
 - services:
-  - healthcare-makerthon=speech-to-text
+  - healthcare-makerthon-speech-to-text
   name: healthcare-makerthon
   command: node app.js
   path: .
